@@ -46,7 +46,7 @@ out/
 *.ear
 
 # Ignore Spring Boot application properties
-application.properties
+#application.properties
 application.yml
 
 # Ignore sensitive files
